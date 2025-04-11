@@ -21,8 +21,7 @@ This project showcases data-driven insights from IPL matches using Excel, SQL, a
 - `powerbi_dashboard/`: The full `IPL_Analytics_Dashboard.pbix` file
 
 ##Screenshots
-![Alt text]([image_url](https://github.com/Preetham-ks/IPL-Analysis/blob/main/powerbi_dashboard/Screenshot%202025-04-11%20171229.png))
-
+[My Image](powerbi_dashboard/Screenshot%202025-04-11%20171229.png)
 
 ## 📌 How to View Dashboard
 > Open the `IPL_Analytics_Dashboard.pbix` file in Power BI Desktop to explore the interactive dashboard.
